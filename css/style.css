@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&family=Cutive+Mono&family=Open+Sans");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	margin: 20px;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Roboto Mono', monospace;
+	font-size: 40px;
+}
+
+h2 {
+	font-family: 'Cutive Mono', monospace;
+	font-size: 30px;
+	font-weight: bold;
+}
